@@ -10,6 +10,9 @@ Docker 是一个开源的应用容器引擎，而一个<ruby>容器<rt>container
 
 - Docker 的局限性之一，它只能用在 64 位的操作系统上。
 
+also see https://cloud.tencent.com/developer/article/1167995
+https://zhuanlan.zhihu.com/p/23599229
+
 目录
 ===
 
